@@ -266,16 +266,13 @@ body{
 .main_back_img_1 {
     position: absolute;
     top: 202px;
-    rotate: 45deg;
 }
 .main_back_img_2 {
     position: absolute;
-    rotate: 157deg;
     bottom: -7vh;
 }
 .main_back_img_3 {
     position: absolute;
-    rotate: 148deg;
     right: 174px;
     bottom: 13vh;
 }
@@ -283,7 +280,6 @@ body{
     position: absolute;
     top: 109px;
     right: 0;
-    rotate: 28deg;
 }
 .products {
     padding: 0 18vw;
